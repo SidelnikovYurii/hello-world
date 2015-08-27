@@ -1,1 +1,1 @@
-Make More Changes
+Status, Add and Commit Changes
